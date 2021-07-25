@@ -1,0 +1,1 @@
+AddCSLuaFile("cl_resource/cl_zhudui3d2d.lua")
